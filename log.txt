@@ -9,3 +9,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0412. ✅ test: increase coverage on auth module
 0406. ✨ feat: add export to CSV option
+0966. 📚 docs: improve code comments in utils
