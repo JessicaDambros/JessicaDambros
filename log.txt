@@ -18,3 +18,4 @@
 0158. 📚 docs: clarify environment setup
 0019. ✨ feat: enable dark mode toggle
 0268. 🐛 fix: prevent crash on empty input
+0858. ♻️ chore: clean up unused files
