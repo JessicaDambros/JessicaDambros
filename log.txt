@@ -19,3 +19,4 @@
 0019. ✨ feat: enable dark mode toggle
 0268. 🐛 fix: prevent crash on empty input
 0858. ♻️ chore: clean up unused files
+0586. 🎨 style: remove trailing whitespace
