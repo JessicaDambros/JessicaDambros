@@ -20,3 +20,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0858. ♻️ chore: clean up unused files
 0586. 🎨 style: remove trailing whitespace
+0533. ♻️ chore: add GitHub actions badge
