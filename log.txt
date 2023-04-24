@@ -35,3 +35,4 @@
 0785. ✨ feat: enable dark mode toggle
 0150. 🎨 style: remove trailing whitespace
 0915. 🚀 perf: cache repeated calculations
+0260. ✨ feat: create admin dashboard
