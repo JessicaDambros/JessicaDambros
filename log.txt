@@ -41,3 +41,4 @@
 0852. ✨ feat: enable dark mode toggle
 0459. 🔧 refactor: organize models into subfolders
 0377. ✨ feat: add user authentication
+0802. 🔧 refactor: remove redundant code blocks
