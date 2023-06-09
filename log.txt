@@ -42,3 +42,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0377. ✨ feat: add user authentication
 0802. 🔧 refactor: remove redundant code blocks
+0316. 🐛 fix: fix broken CSS in mobile view
