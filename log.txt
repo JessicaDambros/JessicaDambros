@@ -43,3 +43,4 @@
 0377. ✨ feat: add user authentication
 0802. 🔧 refactor: remove redundant code blocks
 0316. 🐛 fix: fix broken CSS in mobile view
+0504. 📚 docs: document token refresh logic
