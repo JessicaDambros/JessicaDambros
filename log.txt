@@ -45,3 +45,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0504. 📚 docs: document token refresh logic
 0957. 🐛 fix: fix null pointer exception on login
+0925. ✨ feat: add export to CSV option
