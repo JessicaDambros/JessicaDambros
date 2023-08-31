@@ -65,3 +65,4 @@
 0435. ✅ test: add unit test for quiz service
 0058. ♻️ chore: add GitHub actions badge
 0718. 🐛 fix: resolve issue with date parsing
+0801. ✨ feat: enable dark mode toggle
