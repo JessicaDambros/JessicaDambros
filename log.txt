@@ -66,3 +66,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0718. 🐛 fix: resolve issue with date parsing
 0801. ✨ feat: enable dark mode toggle
+0939. 📚 docs: update README with setup steps
