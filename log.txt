@@ -74,3 +74,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0744. 🔧 refactor: remove redundant code blocks
 0636. ✅ test: increase coverage on auth module
+0672. 🐛 fix: fix broken CSS in mobile view
