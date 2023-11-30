@@ -78,3 +78,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0306. 🎨 style: apply consistent indentation
 0834. ✅ test: increase coverage on auth module
+0632. 🎨 style: remove trailing whitespace
