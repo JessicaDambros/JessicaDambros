@@ -81,3 +81,4 @@
 0632. 🎨 style: remove trailing whitespace
 0024. 📚 docs: write FAQ section
 0183. 🔧 refactor: split large controller into smaller functions
+0864. 🐛 fix: correct typo in registration form
