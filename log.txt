@@ -85,3 +85,4 @@
 0866. 📚 docs: add API usage examples
 0854. ♻️ chore: rename env.example
 0425. 🔧 refactor: refactor quiz grading logic
+0246. ✅ test: add integration test for /submit endpoint
