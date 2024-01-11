@@ -89,3 +89,4 @@
 0574. ✨ feat: enable dark mode toggle
 0506. 🐛 fix: handle 500 error in quiz API
 0869. ♻️ chore: bump dependencies
+0003. ✅ test: increase coverage on auth module
