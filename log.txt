@@ -94,3 +94,4 @@
 0623. 🎨 style: standardize quote style
 0556. ✨ feat: support email verification
 0302. ✨ feat: implement quiz timer feature
+0865. ♻️ chore: add GitHub actions badge
