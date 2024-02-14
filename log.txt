@@ -97,3 +97,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0191. 🔧 refactor: refactor quiz grading logic
 0565. ♻️ chore: add GitHub actions badge
+0468. 📚 docs: update README with setup steps
