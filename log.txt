@@ -100,3 +100,4 @@
 0468. 📚 docs: update README with setup steps
 0706. ✨ feat: support email verification
 0257. 📚 docs: clarify environment setup
+0188. 🎨 style: apply consistent indentation
