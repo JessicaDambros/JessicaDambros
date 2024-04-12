@@ -107,3 +107,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0487. 🎨 style: reformat files with black
 0699. 🎨 style: standardize quote style
+0659. 📚 docs: add API usage examples
