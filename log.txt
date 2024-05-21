@@ -111,3 +111,4 @@
 0551. 📚 docs: write FAQ section
 0356. 📚 docs: write FAQ section
 0564. 📚 docs: clarify environment setup
+0985. 📚 docs: document token refresh logic
