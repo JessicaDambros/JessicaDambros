@@ -113,3 +113,4 @@
 0564. 📚 docs: clarify environment setup
 0985. 📚 docs: document token refresh logic
 0112. ✨ feat: enable dark mode toggle
+0325. 🎨 style: rename variables for clarity
