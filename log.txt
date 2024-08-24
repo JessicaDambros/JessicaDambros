@@ -127,3 +127,4 @@
 0405. ✅ test: mock database connection in test suite
 0650. ✅ test: add unit test for quiz service
 0396. 🔧 refactor: split large controller into smaller functions
+0345. 📚 docs: document token refresh logic
