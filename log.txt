@@ -130,3 +130,4 @@
 0345. 📚 docs: document token refresh logic
 0755. 🚀 perf: cache repeated calculations
 0454. ♻️ chore: bump dependencies
+0430. 🐛 fix: fix null pointer exception on login
