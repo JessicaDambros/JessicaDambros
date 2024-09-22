@@ -138,3 +138,4 @@
 0907. 🔧 refactor: split large controller into smaller functions
 0781. 🚀 perf: reduce image load time
 0734. ✨ feat: add export to CSV option
+0102. ✨ feat: support email verification
