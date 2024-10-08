@@ -140,3 +140,4 @@
 0734. ✨ feat: add export to CSV option
 0102. ✨ feat: support email verification
 0570. 🎨 style: apply consistent indentation
+0669. ✨ feat: enable dark mode toggle
