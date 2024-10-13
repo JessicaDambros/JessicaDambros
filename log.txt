@@ -141,3 +141,4 @@
 0102. ✨ feat: support email verification
 0570. 🎨 style: apply consistent indentation
 0669. ✨ feat: enable dark mode toggle
+0332. 🎨 style: standardize quote style
