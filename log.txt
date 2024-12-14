@@ -151,3 +151,4 @@
 0756. ✨ feat: support email verification
 0968. 🎨 style: standardize quote style
 0232. 🎨 style: apply consistent indentation
+0809. ♻️ chore: rename env.example
