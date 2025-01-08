@@ -155,3 +155,4 @@
 0458. ✨ feat: create admin dashboard
 0360. ✨ feat: add export to CSV option
 0639. 🐛 fix: correct typo in registration form
+0749. ✨ feat: support email verification
