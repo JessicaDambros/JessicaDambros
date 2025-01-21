@@ -158,3 +158,4 @@
 0749. ✨ feat: support email verification
 0717. 🔧 refactor: refactor quiz grading logic
 0286. ✅ test: mock database connection in test suite
+0511. 🐛 fix: fix broken CSS in mobile view
