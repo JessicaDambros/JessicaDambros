@@ -168,3 +168,4 @@
 0045. 🎨 style: apply consistent indentation
 0077. ♻️ chore: rename env.example
 0626. 🎨 style: standardize quote style
+0522. 🐛 fix: handle 500 error in quiz API
