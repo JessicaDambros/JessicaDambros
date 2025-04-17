@@ -175,3 +175,4 @@
 0203. 🚀 perf: lazy-load components
 0104. 🎨 style: apply consistent indentation
 0912. 📚 docs: document token refresh logic
+0298. ♻️ chore: update .gitignore
