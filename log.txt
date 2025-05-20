@@ -181,3 +181,4 @@
 0722. 📚 docs: add API usage examples
 0278. 🔧 refactor: clean up auth middleware
 0701. 🔧 refactor: clean up auth middleware
+0450. 🐛 fix: fix broken CSS in mobile view
