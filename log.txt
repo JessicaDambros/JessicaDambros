@@ -186,3 +186,4 @@
 0545. 🎨 style: standardize quote style
 0486. ✨ feat: add export to CSV option
 0780. 📚 docs: add API usage examples
+0373. 📚 docs: document token refresh logic
