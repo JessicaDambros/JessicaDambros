@@ -187,3 +187,4 @@
 0486. ✨ feat: add export to CSV option
 0780. 📚 docs: add API usage examples
 0373. 📚 docs: document token refresh logic
+0046. 🎨 style: rename variables for clarity
